@@ -7,7 +7,7 @@ To create Hello world Activity using all lifecycles methods to display messages 
 Android Studio(Min. required Artic Fox)
 
 ## ALGORITHM:
-Step 1: Open Android Stdio and then click on File -> New -> New project.
+Step 1: Open Android Studio and then click on File -> New -> New project.
 
 Step 2: Then type the Application name as HelloWorld and click Next.
 
@@ -114,7 +114,7 @@ public class MainActivity extends AppCompatActivity {
 ### OnPause Executed
 ![Screenshot 2024-09-16 104427](https://github.com/user-attachments/assets/acc45ecf-abac-4442-8341-0b534774112c)
 
-# RESULT:
+## RESULT:
 Thus, a program to implement the various life cycles of an activity is written and successfully executed using Android Studio.
 
 
