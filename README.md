@@ -24,9 +24,13 @@ Step 6: Display message give in MainActivity file.
 Step 7: Save and run the application.
 
 ## PROGRAM:
-
-DEVELOPED BY : Priya R
-REGISTER NO: 212222040124
+```
+/*
+Program to create and design an android application Send SMS using Intent.
+Developed by: Priya R
+Registration Number : 212222040124
+*/
+```
 
 ## MainActivity.java:
 ```
